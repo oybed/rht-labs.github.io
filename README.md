@@ -6,6 +6,14 @@ Below are instructions for how to set up a local development environment. Useful
 
 Here's [how to install GIT](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
+## 1. Install Homebrew (Mac Only)
+
+Here's [how to install Homebrew](https://brew.sh/).
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 ## 2. Clone this repo
 
 Tell git to download the rht-labs.github.io source:
